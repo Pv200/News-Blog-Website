@@ -15,8 +15,8 @@ NewsWEB is a sleek and modern news website that brings you the latest headlines 
 
 ## Preview
 
-![Screenshot 1]([path/to/screenshot1.png](https://github.com/Pv200/News-Blog-Website/blob/main/Screenshot%20from%202024-01-11%2016-53-18.png))
-![Screenshot 2]([path/to/screenshot2.png](https://github.com/Pv200/News-Blog-Website/blob/main/Screenshot%20from%202024-01-11%2016-54-18.png))
+![Screenshot 1](https://github.com/Pv200/News-Blog-Website/blob/main/Screenshot%20from%202024-01-11%2016-53-18.png)
+![Screenshot 2](https://github.com/Pv200/News-Blog-Website/blob/main/Screenshot%20from%202024-01-11%2016-54-18.png)
 
 ## Live Demo
 
