@@ -20,7 +20,7 @@ NewsWEB is a sleek and modern news website that brings you the latest headlines 
 
 ## Live Demo
 
-Check out the live demo of NewsWEB: [NewsWEB Live](https://your-username.github.io/NewsWEB)
+Check out the live demo of NewsWEB: [NewsWEB Live](https://pv200.github.io/News-Blog-Website/)
 
 ## Getting Started
 
