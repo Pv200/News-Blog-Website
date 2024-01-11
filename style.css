@@ -1,0 +1,14 @@
+body{
+    background-image:url(worldwide-connection-blue-background-illustration-vector_53876-76824.avif);
+    background-size:cover;
+    text-decoration-color:white;
+}
+.welimage{
+    animation:mymove 10s infinite;
+    
+
+}
+@keyframes mymove{
+    from { transform: translateX(120px) rotateY(0deg); }
+    to { transform: translateX(120px) rotateY(360deg); }
+}
