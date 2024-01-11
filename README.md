@@ -1,6 +1,6 @@
 # NewsWEB - Your Modern News Experience
 
-![NewsWEB Preview](path/to/screenshot.png)
+![NewsWEB Preview](https://github.com/Pv200/News-Blog-Website/blob/main/Screenshot%20from%202024-01-11%2016-52-18.png)
 
 NewsWEB is a sleek and modern news website that brings you the latest headlines in an interactive and engaging format. Built with HTML, CSS, Bootstrap, and integrated with the NewsAPI for up-to-date news content.
 
@@ -15,8 +15,8 @@ NewsWEB is a sleek and modern news website that brings you the latest headlines 
 
 ## Preview
 
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
+![Screenshot 1]([path/to/screenshot1.png](https://github.com/Pv200/News-Blog-Website/blob/main/Screenshot%20from%202024-01-11%2016-53-18.png))
+![Screenshot 2]([path/to/screenshot2.png](https://github.com/Pv200/News-Blog-Website/blob/main/Screenshot%20from%202024-01-11%2016-54-18.png))
 
 ## Live Demo
 
